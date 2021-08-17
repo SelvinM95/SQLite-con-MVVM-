@@ -1,0 +1,16 @@
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\bin\Debug\netstandard2.0\EjercicioVMMV.deps.json
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\bin\Debug\netstandard2.0\EjercicioVMMV.dll
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\bin\Debug\netstandard2.0\ref\EjercicioVMMV.dll
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\bin\Debug\netstandard2.0\EjercicioVMMV.pdb
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\obj\Debug\netstandard2.0\EjercicioVMMV.csproj.AssemblyReference.cache
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\obj\Debug\netstandard2.0\Views\EmpleadosDetailsPage.xaml.g.cs
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\obj\Debug\netstandard2.0\Views\EmpleadosPage.xaml.g.cs
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\obj\Debug\netstandard2.0\EjercicioVMMV.AssemblyInfoInputs.cache
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\obj\Debug\netstandard2.0\EjercicioVMMV.AssemblyInfo.cs
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\obj\Debug\netstandard2.0\EjercicioVMMV.csproj.CoreCompileInputs.cache
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\obj\Debug\netstandard2.0\EjercicioVMMV.dll
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\obj\Debug\netstandard2.0\ref\EjercicioVMMV.dll
+C:\Users\SelvinM95\source\repos\EjercicioMVVM\EjercicioVMMV\EjercicioVMMV\obj\Debug\netstandard2.0\EjercicioVMMV.pdb

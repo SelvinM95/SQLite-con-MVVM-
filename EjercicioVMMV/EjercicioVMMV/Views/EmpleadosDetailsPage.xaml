@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EjercicioVMMV.Views.EmpleadosDetailsPage">
+    <TableView Intent="Form" Margin="16,0">
+        <TableRoot>
+            <TableSection>
+                <EntryCell Label="Nombre" Text="{Binding Path=Empleados.Nombre}" />
+                <EntryCell Label="Apellido" Text="{Binding Path=Empleados.Apellido}" />
+            </TableSection>
+            <TableSection>
+                <EntryCell Label="Edad" Text="{Binding Path=Empleados.Edad}" Keyboard="Numeric" />
+                <EntryCell Label="Dirección" Text="{Binding Path=Empleados.Direccion}" />
+                <EntryCell Label="Puesto" Text="{Binding Path=Empleados.Puesto}" />
+            </TableSection>
+            <TableSection>
+                <ViewCell>
+                    <Button Text="Guardar" Command="{Binding SaveCommand}" />
+                </ViewCell>
+            </TableSection>
+        </TableRoot>
+    </TableView>
+</ContentPage>

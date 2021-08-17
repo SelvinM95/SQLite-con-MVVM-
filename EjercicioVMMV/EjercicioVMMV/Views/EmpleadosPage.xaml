@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Name="empleadosPage"
+             x:Class="EjercicioVMMV.Views.EmpleadosPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Command="{Binding AddEmpleadosCommand}" />
+    </ContentPage.ToolbarItems>
+
+    <ListView ItemsSource="{Binding Empleados}" SelectedItem="{Binding SelectedEmpleados, Mode=TwoWay}" HasUnevenRows="True" SeparatorColor="Gray" ItemSelected="OnEmpleadosSelected">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ImageCell Text="{Binding FullName}" Detail="{Binding Puesto}" DetailColor="Black" TextColor="Red">
+                    <ImageCell.ContextActions>
+                        <MenuItem Text="Delete" IsDestructive="true" Command="{Binding Source={x:Reference empleadosPage}, Path=ViewModel.DeleteEmpleadosCommand}" CommandParameter="{Binding .}" />
+                    </ImageCell.ContextActions>
+                </ImageCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>
